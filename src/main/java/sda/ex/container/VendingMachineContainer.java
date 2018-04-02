@@ -1,4 +1,8 @@
-package sda.ex;
+package sda.ex.container;
+
+import sda.ex.Dispenser;
+import sda.ex.Product;
+import sda.ex.ProductType;
 
 import java.util.LinkedHashMap;
 import java.util.Map;

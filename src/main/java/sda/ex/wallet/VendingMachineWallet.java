@@ -1,4 +1,6 @@
-package sda.ex;
+package sda.ex.wallet;
+
+import sda.ex.Coins;
 
 import java.util.HashMap;
 import java.util.Map;

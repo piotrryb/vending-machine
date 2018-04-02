@@ -1,4 +1,7 @@
-package sda.ex;
+package sda.ex.machine;
+
+import sda.ex.Coins;
+import sda.ex.container.IContainer;
 
 import java.util.Map;
 
